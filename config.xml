@@ -2,7 +2,7 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "widesttech"
+        id        = "com.widesttech.lms"
         versionCode = "29"
         version   = "2.9">
     <name>Widesttech</name>
