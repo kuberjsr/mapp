@@ -1,0 +1,16 @@
+{
+  "name": "Widesttech for mobile",
+  "main": "index.html",
+  "window": {
+    "title": "Widesttech for mobile",
+    "icon": "icon.png",
+    "toolbar": true,
+    "frame": true,
+    "width": 1024,
+    "height": 768,
+    "max_height": 800,
+    "resizable": false
+  },
+  "plugin": true,
+  "description": "Widesttech for mobile"
+}
