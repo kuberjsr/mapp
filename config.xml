@@ -5,10 +5,10 @@
         id        = "com.moodle.moodlemobile"
         versionCode = "391"
         version   = "1.15">
-    <name>Widesttech</name>
+    <name>Moodle Mobile</name>
 
     <description>
-        Widesttech Official App
+        Moodle Mobile official app
     </description>
 
     <author href="http://moodle.com" email="juan@moodle.com">
@@ -21,7 +21,7 @@
 
     <preference name="android-minSdkVersion" value="5" />
 
-    <preference name="phonegap-version" value="cli-5.2.0" />
+    <preference name="phonegap-version" value="3.6.3" />
     <preference name="orientation"      value="default" />
     <preference name="target-device"    value="universal" />
     <preference name="fullscreen"       value="false" />
