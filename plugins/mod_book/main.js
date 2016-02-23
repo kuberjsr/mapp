@@ -12,7 +12,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-angular.module('mm.addons.mod_book', ['mm.core'])
+angular.module('mm.plugins.mod_book', ['mm.core'])
 
 .constant('mmaModBookComponent', 'mmaModBook')
 
@@ -29,7 +29,7 @@ angular.module('mm.addons.mod_book', ['mm.core'])
       views: {
         'site': {
           controller: 'mmaModBookIndexCtrl',
-          templateUrl: 'addons/mod_book/templates/index.html'
+          templateUrl: 'plugins/mod_book/templates/index.html'
         }
       }
     });
